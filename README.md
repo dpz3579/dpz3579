@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @dpz3579
 - 👀 I’m interested in - Leaning NLP
-- 🌱 I’m currently learning - Machine Learning ( Rgeression Models)
+- 🌱 I’m currently learning
+   - Machine Learning ( Regression Models)
+   - WebRTC ( Coturn )
+   - IPFS ( Private IPFS for secure internal transfer of files )
 - 💞️ I’m looking to collaborate on - NLP Library
 - 📫 How to reach me - dipesh357@hotmail.com / dipesh357@gmail.com
 
